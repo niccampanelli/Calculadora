@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.form.resources
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.manifest
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.application
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe.manifest
+C:\Users\Alexandre\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.application
